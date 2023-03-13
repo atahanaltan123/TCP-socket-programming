@@ -1,4 +1,0 @@
-1111:1234:John Doe:1000:Acme Bank
-2222:5678:Jane Smith:5000:Global Bank
-3333:9012:Bob Johnson:750:Acme Bank
-4444:3456:Sara Lee:2500:Global Bank
